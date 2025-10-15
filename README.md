@@ -11,6 +11,13 @@ Hi, I'm Sara, a Colombian girl passionate about web design and development. I’
 Also, I love taking online courses! Check out the ones I've taken.
 
 ##### ✨ Courses
+* Virtual diploma in digital design from the Polytechnic of Colombia (2020)
+* Google AI Essentials (2025)
+* Google Data Analysis (current)
+* Linux Essentials Cisco (current)
+
+##### ✨ Key Projects
+
 
 
 
