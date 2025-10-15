@@ -2,10 +2,13 @@
 
 ## I'm a Computer Engineering student 💻✨
 
+### Welcome to my GitHub! 🚀
+
+I work on projects to learn new things, explore ideas, and find creative solutions. Let’s make something great together!
 
 
-- 🔭 I'm currently learning Git, GitHub, and web development  
-- 🌱 I'm interested in artificial intelligence and software development  
+
+
 
 Thanks for visiting my profile! 💻✨
 
