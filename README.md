@@ -1,6 +1,6 @@
-## Hi there, I'm Sara 👋
+# Hi there, I'm Sara 👋
 
-I'm a Computer Engineering student 💻✨
+## I'm a Computer Engineering student 💻✨
 
 
 
