@@ -17,6 +17,16 @@ Also, I love taking online courses! Check out the ones I've taken.
 * Linux Essentials Cisco (current)
 
 ##### ✨ Key Projects
+*PokeDex
+https://github.com/sarastacruz04/PokeDex
+
+#### Languages and tools 🔧
+<img width="361" height="360" alt="image" src="https://github.com/user-attachments/assets/65d9c959-acbb-4b67-9df6-25d512d1b6fa" />
+
+
+
+
+
 
 
 
