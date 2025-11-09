@@ -13,7 +13,7 @@
 Hi, I'm Sara, a Colombian girl passionate about web design and development. I’m a Computer Engineering student at La Sabana University.
 Also, I love taking online courses! Check out the ones I've taken.
 
-##### ✨ Courses
+##### ✨ Courses (constantly updated)
 * Virtual diploma in digital design from the Polytechnic of Colombia (2020)
 * Google AI Essentials (2025)
 * Google Data Analysis (current)
@@ -22,6 +22,7 @@ Also, I love taking online courses! Check out the ones I've taken.
 ##### ✨ Key Projects
 *PokeDex
 https://github.com/sarastacruz04/PokeDex
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 ### Languages and tools 🔧
 
