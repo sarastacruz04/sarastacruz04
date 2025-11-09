@@ -8,8 +8,6 @@
 
 </div>
 
-I work on projects to learn new things, explore ideas, and find creative solutions. Let’s make something great together!
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 #### Who am i?
 Hi, I'm Sara, a Colombian girl passionate about web design and development. I’m a Computer Engineering student at La Sabana University.
