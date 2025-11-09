@@ -22,8 +22,8 @@ Also, I love taking online courses! Check out the ones I've taken.
 ##### ✨ Key Projects
 *PokeDex
 https://github.com/sarastacruz04/PokeDex
-
-#### Languages and tools 🔧
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+### Languages and tools 🔧
 
 
 
