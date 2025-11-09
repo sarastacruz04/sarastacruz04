@@ -103,6 +103,14 @@ https://github.com/sarastacruz04/PokeDex
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+## 🐍 A Snake Eating my Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/sarastacruz04/sarastacruz04/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
+
 
 
 
