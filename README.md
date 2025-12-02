@@ -16,8 +16,8 @@ Also, I love taking online courses! Check out the ones I've taken..
 ##### ✨ Courses (constantly updated)
 * Virtual diploma in digital design from the Polytechnic of Colombia (2020)
 * Google AI Essentials (2025)
-* Google Data Analysis (current)
-* Linux Essentials Cisco (current)
+* Google Data Analysis (2025)
+* Google Foundations of user experience (UX) design (current)
 
 ##### ✨ Key Projects
 *PokeDex
